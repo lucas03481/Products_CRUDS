@@ -10,7 +10,7 @@ Cette version du projet, actuellement forkée, apporte des tests fonctionnels su
 
 ## Crédits
 
-- Projet Original par [MohamedMamdouh1999](lien-vers-le-profil-original) - Nom du Projet : Products_CRUDS
+- Projet Original par [MohamedMamdouh1999](https://github.com/MohamedMamdouh1999/Products_CRUDS) - Nom du Projet : Products_CRUDS
 
 ## Membres du Fork Actuel
 
